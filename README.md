@@ -14,3 +14,4 @@ https://iopscience.iop.org/article/10.1088/1742-6596/1952/3/032007/meta
 
 https://books.google.co.th/books?hl=en&lr=&id=Y22PDwAAQBAJ&oi=fnd&pg=PA19&dq=p300+bci+event+related+potential&ots=hVMNuNlbdW&sig=UsPUnL90fOYFG7Rh_Iw2MDcMBQ0&redir_esc=y#v=onepage&q=p300%20bci%20event%20related%20potential&f=false
 
+https://link.springer.com/article/10.1007/s13721-020-00268-1
